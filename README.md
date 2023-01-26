@@ -4,3 +4,4 @@ Segunda task do módulo de Git do programa Vem Ser DBC
 ## Integrantes
 
 - Claudio Henrique
+- Gustavo Assis
