@@ -8,3 +8,4 @@ Segunda task do módulo de Git do programa Vem Ser DBC
 - Alberto Albuquerque
 - Nícolas Canova
 - Gabriel de Jesus
+- João Victor Lúcio
